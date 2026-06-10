@@ -106,7 +106,7 @@ function App() {
         </div>
 
         <div className="home-image">
-          <img src="/profile.jpg" alt="Nimesh Profile" />
+          <img src={`${import.meta.env.BASE_URL}profile.jpg`} alt="Nimesh Profile" />
         </div>
       </section>
 
