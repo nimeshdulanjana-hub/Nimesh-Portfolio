@@ -1,0 +1,60 @@
+{
+  "hash": "93e17493",
+  "configHash": "7613de4d",
+  "lockfileHash": "59c5b4b5",
+  "browserHash": "3eabf025",
+  "optimized": {
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "b7e415e1",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "5b61d37f",
+      "needsInterop": true
+    },
+    "react-icons/fa": {
+      "src": "../../node_modules/react-icons/fa/index.mjs",
+      "file": "react-icons_fa.js",
+      "fileHash": "86478261",
+      "needsInterop": false
+    },
+    "react-icons/si": {
+      "src": "../../node_modules/react-icons/si/index.mjs",
+      "file": "react-icons_si.js",
+      "fileHash": "f660a9f6",
+      "needsInterop": false
+    },
+    "react-type-animation": {
+      "src": "../../node_modules/react-type-animation/dist/esm/index.es.js",
+      "file": "react-type-animation.js",
+      "fileHash": "0f67c86a",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "87b25763",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "b30edc37",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "iconBase-F_bbY9sn": {
+      "file": "iconBase-F_bbY9sn.js",
+      "isDynamicEntry": false
+    },
+    "react-CZunmVaX": {
+      "file": "react-CZunmVaX.js",
+      "isDynamicEntry": false
+    }
+  }
+}
